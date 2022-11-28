@@ -1,6 +1,7 @@
 # React Native App
 
 The aim of this project was to develop an app with React Native based on Alura course and completing all the challenges proposed and much more.
+
 The mobile app uses fictitious data about natural food producers so the user can search for the closer ones and purchase to receive at home.
 
 | :placard: Vitrine.Dev |     |
