@@ -1,6 +1,6 @@
 # React Native App
 
-The aim of this project was to develop an app with React Native based on an Alura course and completing all the challenges proposed and much more.
+The aim of this project was to develop an app with React Native based on Alura course and completing all the challenges proposed and much more.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
