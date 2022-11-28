@@ -12,10 +12,14 @@ The mobile app uses fictitious data about natural food producers so the user can
 | :fire: Desafio     | https://url-do-desafio.com.br -->
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/rd-coutinho/ReactNative-App/blob/main/react-native.png#vitrinedev)
+<p align="center" width=50 height=50>
+  ![](https://github.com/rd-coutinho/ReactNative-App/blob/main/react-native.png#vitrinedev)
+</p>
 
 <!-- ## Projects details
 
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
 
-![](Orgs-App.gif)
+<p align="center">
+  ![](Orgs-App.gif)
+</p>
